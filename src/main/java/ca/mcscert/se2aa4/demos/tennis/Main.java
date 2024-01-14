@@ -8,6 +8,7 @@ import org.apache.commons.cli.ParseException;
 
 public class Main {
 
+//    HI THIS IS YOUR FRIEND ANDY? IF YOU ARE SEEING THIS, THEN THERE IS SOMETHING WRONG WITH YOUR SSH?
     public static int PLAYER1_STRENGTH;
     public static int PLAYER2_STRENGTH;
 
