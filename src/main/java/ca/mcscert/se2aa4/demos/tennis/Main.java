@@ -7,7 +7,7 @@ import org.apache.commons.cli.DefaultParser;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
 
-public class Main { //change2
+public class Main { //change3
 
     public static int PLAYER1_STRENGTH;
     public static int PLAYER2_STRENGTH;
